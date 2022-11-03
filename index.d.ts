@@ -1,6 +1,6 @@
 //List all the functions
 declare class GrootieClient {
-    waifu().url;
+    waifu();
 
 
 }
