@@ -14,7 +14,7 @@ declare namespace GrootieClient {
     text: string;
   }
   export interface GrootieRequestResults {
-    url;
+    url
   }
   export interface GrootieChatResults {
     response: string;
