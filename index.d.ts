@@ -16,20 +16,20 @@ declare namespace GrootieClient {
   export interface GrootieRequestResults {
     url: string;
   }
-  export interface NekoChatResults {
+  export interface GrootieChatResults {
     response: string;
     url?: string;
   }
-  export interface NekoCatResult {
+  export interface GrootieCatResult {
     cat: string;
   }
-  export interface NekoWhyResult {
+  export interface GrootieWhyResult {
     why: string;
   }
-  export interface NekoOwOResult {
+  export interface GrootieOwOResult {
     owo: string;
   }
-  export interface NekoFactResult {
+  export interface GrootieFactResult {
     fact: string; 
   }
 }
