@@ -1,0 +1,24 @@
+{
+  "name": "grootie.api",
+  "version": "1.0.0",
+  "description": "JS wrapper for https://api.grootie.ml",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwaysluxury/grootie.api.git"
+  },
+  "keywords": [
+    "grootie",
+    "grootie.api"
+  ],
+  "author": "alwaysluxury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alwaysluxury/grootie.api/issues"
+  },
+  "homepage": "https://github.com/alwaysluxury/grootie.api#readme"
+}
