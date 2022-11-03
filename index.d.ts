@@ -1,6 +1,6 @@
 //List all the functions
 declare class GrootieClient {
-    waifu():url;
+    waifu():Promise<GrootieClient.GrootieRequestResults>;
 
 
 }
@@ -14,7 +14,7 @@ declare namespace GrootieClient {
     text: string;
   }
   export interface GrootieRequestResults {
-    url
+    url: string;
   }
   export interface GrootieChatResults {
     response: string;
