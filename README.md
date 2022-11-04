@@ -66,3 +66,4 @@ returns:
 ```
 
 
+## Join our [Discord Server](https://discord.gg/yfmHHVEBvK) for help
